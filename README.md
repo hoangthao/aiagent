@@ -1,0 +1,1 @@
+https://catalog.workshops.aws/java-spring-ai-agents/en-US
