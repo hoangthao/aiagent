@@ -1,5 +1,6 @@
 {
-  "userPoolId": "",
-  "clientId": "",
+  "userPoolId": "us-east-1_5wEaMmKus",
+  "clientId": "4q9mpb2avhb078hbbjppce53fa",
+  "region": "us-east-1",
   "apiEndpoint": "invocations"
 }
